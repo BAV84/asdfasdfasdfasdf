@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2CF05ADC219C927A00A916A0 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF05ADB219C927A00A916A0 /* MapForItinerary.swift */; };
 		2CF265922199F876006EDFCB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF265912199F876006EDFCB /* AppDelegate.swift */; };
 		2CF265942199F876006EDFCB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF265932199F876006EDFCB /* ViewController.swift */; };
 		2CF265972199F876006EDFCB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CF265952199F876006EDFCB /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2CF05ADB219C927A00A916A0 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 		2CF2658E2199F876006EDFCB /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CF265912199F876006EDFCB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CF265932199F876006EDFCB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				2CF265912199F876006EDFCB /* AppDelegate.swift */,
 				2CF265932199F876006EDFCB /* ViewController.swift */,
+				2CF05ADB219C927A00A916A0 /* MapForItinerary.swift */,
 				2CF265952199F876006EDFCB /* Main.storyboard */,
 				2CF265982199F877006EDFCB /* Assets.xcassets */,
 				2CF2659A2199F877006EDFCB /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				2CF265942199F876006EDFCB /* ViewController.swift in Sources */,
 				2CF265922199F876006EDFCB /* AppDelegate.swift in Sources */,
+				2CF05ADC219C927A00A916A0 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
